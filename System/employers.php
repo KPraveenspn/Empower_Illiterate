@@ -88,8 +88,6 @@ $page = 1;
 
 				<div class="container">
 					
-					
-					
 					<div id="navbar" class="navbar-nav-wrapper navbar-arrow">
 					
 						<ul class="nav navbar-nav" id="responsive-menu">
